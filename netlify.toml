@@ -3,3 +3,9 @@ from = "/order"
 to = "https://getexipure.com/?aff_id=563602"
 status = 301
 force = true
+
+[[redirects]]
+from = "/index.html"
+to = "/"
+status = 301
+force = true
